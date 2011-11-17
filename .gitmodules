@@ -1,3 +1,15 @@
 [submodule "community"]
 	path = community
 	url = git@github.com:neo4j/community.git
+[submodule "advanced"]
+	path = advanced
+	url = git@github.com:neo4j/advanced.git
+[submodule "enterprise"]
+	path = enterprise
+	url = git@github.com:neo4j/enterprise.git
+[submodule "manual"]
+	path = manual
+	url = git@github.com:neo4j/manual.git
+[submodule "packaging"]
+	path = packaging
+	url = git@github.com:neo4j/packaging.git
